@@ -27,7 +27,6 @@ Supabase
 PostgreSQL
 TypeScript
 GitHub
-Visual Studio Code
-👨‍💻 Autor
+Visual Studio Code.
 
 Proyecto desarrollado como Trabajo Práctico para la materia Desarrollo de Aplicaciones Móviles.
